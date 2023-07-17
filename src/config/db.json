@@ -1,0 +1,60 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 2
+    },
+    {
+      "name": "Shubham ",
+      "password": "aa",
+      "email": "aa",
+      "id": 3
+    }
+  ],
+  "seller-add-new-product": [
+    {
+      "name": "Samsung M30",
+      "price": "20000",
+      "color": "Blue",
+      "category": "Mobile",
+      "description": "Best smartphone with this price",
+      "imageUrl": "https://www.wizekart.com/360-large_default/samsung-galaxy-m30s-blue-6gb-ram-super-amoled-display-128gb-storage-6000mah-battery.jpg",
+      "id": 1
+    },
+    {
+      "name": "Samsung M40",
+      "price": "21000",
+      "color": "Green",
+      "category": "Mobile",
+      "description": "smartphone",
+      "imageUrl": "https://m.media-amazon.com/images/I/516f8bKMO0L._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 2
+    },
+    {
+      "name": "Samsung M40",
+      "price": "21000",
+      "color": "Green",
+      "category": "Mobile",
+      "description": "smartphone",
+      "imageUrl": "https://m.media-amazon.com/images/I/41FdjbtF3BL._SX679_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Samsung M40",
+      "price": "21000",
+      "color": "Green",
+      "category": "Mobile",
+      "description": "smartphone",
+      "imageUrl": "https://www.wizekart.com/360-large_default/samsung-galaxy-m30s-blue-6gb-ram-super-amoled-display-128gb-storage-6000mah-battery.jpg",
+      "id": 4
+    }
+  ]
+}
